@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApplication", "CarApplication\CarApplication.csproj", "{AFC48BD0-CCAD-45FD-B59A-D0A4AB4C5AF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterApplication", "HeaterApplication\HeaterApplication.csproj", "{2660768C-D162-442A-8E31-E58536C0947D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasherApplication", "WasherApplication\WasherApplication.csproj", "{632F0419-73A9-438B-91A3-64ECD70E93BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AFC48BD0-CCAD-45FD-B59A-D0A4AB4C5AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC48BD0-CCAD-45FD-B59A-D0A4AB4C5AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC48BD0-CCAD-45FD-B59A-D0A4AB4C5AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2660768C-D162-442A-8E31-E58536C0947D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2660768C-D162-442A-8E31-E58536C0947D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2660768C-D162-442A-8E31-E58536C0947D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2660768C-D162-442A-8E31-E58536C0947D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632F0419-73A9-438B-91A3-64ECD70E93BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632F0419-73A9-438B-91A3-64ECD70E93BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632F0419-73A9-438B-91A3-64ECD70E93BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632F0419-73A9-438B-91A3-64ECD70E93BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
