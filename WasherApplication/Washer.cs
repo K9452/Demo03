@@ -19,6 +19,7 @@ namespace WasherApplication
         public void Start()
         {
             Console.WriteLine("Hurr.....");
+            //lel
         }
     }
 }
