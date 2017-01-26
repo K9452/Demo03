@@ -15,5 +15,10 @@ namespace WasherApplication
         public double WashingTime { get; set; }
         public bool WashReady { get; set; }
         public bool WaterOn { get; set; }
+
+        public void Start()
+        {
+            Console.WriteLine("Hurr.....");
+        }
     }
 }

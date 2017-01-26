@@ -12,6 +12,7 @@ namespace WasherApplication
         {
             Washer washer = new Washer();
             washer.IsOn = true;
+            washer.Start();
             washer.WaterTemperature = 40;
             washer.WashingTime = 1.30;
             washer.WashingMode = "quick wash";
