@@ -15,6 +15,11 @@ namespace VehicleApplication
             vehicle.Speed = 160;
             vehicle.Tyres = 4;
             vehicle.PrintData();
+            vehicle.ToString();
+
+            {
+                Console.ReadLine();
+            }
 
            
         }

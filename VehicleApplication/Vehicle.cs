@@ -17,9 +17,17 @@ namespace VehicleApplication
             Console.WriteLine("Car name " + Name);
             Console.WriteLine("Car speed " + Speed);
             Console.WriteLine("Car tyres " + Tyres);
-            {
-                Console.ReadLine();
-            }
+           
+        
         }
+        public void ToString()
+        {
+            string data = ("Name " + Name + " Speed " + Speed + " Tyres " + Tyres);
+            Console.WriteLine(data);
+        }
+        
+       
+        
+        
     }
 }
