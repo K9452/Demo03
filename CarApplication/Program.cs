@@ -31,6 +31,9 @@ namespace CarApplication
             nascar.PrintData();
             nascar.Color = "Balck";
             Console.WriteLine("Color is " + nascar.Color);
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
